@@ -5,6 +5,8 @@ Are you tired of spending hours trying to solve complex homework questions? Whet
 > **Try it now:**  
 > 🔗 [https://www.studyfriend.me/tools/ai-homework-solver](https://www.studyfriend.me/tools/ai-homework-solver)
 
+![AI Homework Solver](https://github.com/user-attachments/assets/02196e82-493d-42fa-90e7-832849ac462b)
+
 
 ## What is the AI Homework Solver?
 
