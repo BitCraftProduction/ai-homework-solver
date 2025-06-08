@@ -78,7 +78,7 @@ This article includes useful terms to help you find this tool:
 [StudyFriend](https://www.studyfriend.me) is a modern learning platform that uses artificial intelligence to create bite-sized knowledge tools for students globally. We believe education should be simple, fast, and personalized.
 
 Check out our site: [https://www.studyfriend.me](https://www.studyfriend.me)  
-Email: support@studyfriend.me
+Email: contact@studyfriend.me
 
 
 ## 🙌 Support & Contribute
